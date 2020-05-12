@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "firstName": "Nareg",
+        "lastName": "Apkarian",
+        "email": "test@nareg.com",
+        "phone": "122",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": "Joe",
+        "lastName": "Biden",
+        "email": "test2@nareg.com",
+        "phone": "123",
+        "editing": false
+
+    },
+    {
+        "id": 3,
+        "firstName": "Mike",
+        "lastName": "Tyson",
+        "email": "test3@nareg.com",
+        "phone": "124",
+        "editing": false
+
+    }
+]
